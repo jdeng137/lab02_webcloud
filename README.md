@@ -13,15 +13,15 @@ The goal of this analysis was for me to explore how different climate related te
 ## III. Word Cloud Comparison
 The **climate change** word cloud is dominated by broad and institutional terms such as *climate*, *change*, *public*, *action*, and *environment*. This suggests a framing that emphasizes collective responsibility, policy discussions, and large scale environmental systems. The presence of words related to organizations, media, and research reflects how climate change is often discussed at a global or governmental level
 
-<img src="lab02_webcloud/imgs/wordcloud-1.png" alt="Climate Change Word Cloud">
+<img src="imgs/wordcloud-1.png" alt="Climate Change Word Cloud">
 
 The **carbon footprint** word cloud stands out for its emphasis on *carbon*, *emissions*, *footprint*, *reduce*, and *offsets*. Unlike the other two, this word cloud highlights individual actions, technology, consumption, and measurement. The language suggests a more practical and solution-oriented framing, often tied to lifestyle choices, corporate accountability, and tools for tracking emissions.
 
-<img src="lab02_webcloud/imgs/wordcloud-2.png" alt="Carbon Footprint Word Cloud" width="700">
+<img src="imgs/wordcloud-2.png" alt="Carbon Footprint Word Cloud" width="700">
 
 The **global warming** word cloud places strong emphasis on *warming*, *temperature*, *effects*, and *health*. Compared to climate change, this word cloud appears more focused on physical impacts and consequences. Terms related to nature, severity, and urgency suggest that global warming discourse may be more emotionally driven and centered on visible environmental change.
 
-<img src="lab02_webcloud/imgs/wordcloud-3.png" alt="Global Warming Word Cloud" width="700">
+<img src="imgs/wordcloud-3.png" alt="Global Warming Word Cloud" width="700">
 
 ## IV. Possible Reasons for Observed Patterns
 
