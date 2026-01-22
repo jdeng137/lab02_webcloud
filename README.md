@@ -41,6 +41,6 @@ The CSV files containing the collected and processed data can be downloaded here
 
 - [Search Result 1: Climate Change](https://docs.google.com/spreadsheets/d/1iO0brx1qmbRq2MQ9jI-VFJarNvZZEfTHiw24hjMuc7E/edit?gid=53119700#gid=53119700)
 - [Search Result 2: Carbon Footprint](https://docs.google.com/spreadsheets/d/1LZF9kh7yj4Ap2K9mKyLUewMZkNzcemhusIl2KRlD0Io/edit?gid=1990895915#gid=1990895915)
-- [Global Warming](https://docs.google.com/spreadsheets/d/1L4y0fiXUZp-gZlIi5tp4V6MyyqF7b4dkMXuZe3WW_Wg/edit?gid=1783720688#gid=1783720688)
+- [Search Result 3: Global Warming](https://docs.google.com/spreadsheets/d/1L4y0fiXUZp-gZlIi5tp4V6MyyqF7b4dkMXuZe3WW_Wg/edit?gid=1783720688#gid=1783720688)
 
 
